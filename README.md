@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # plantshop
 
 A new Flutter application.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Plant-Shop-Flutter-UI
+beautiful Hero Widget in a plant online shop in flutter platform UI
+>>>>>>> 320e68ae19302fef1cf31ed326d6332aef86bf38
